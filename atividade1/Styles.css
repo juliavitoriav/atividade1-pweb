@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(233, 213, 216);
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+h1{
+    color: palevioletred;
+
+}
+
+h2{
+    color: lightpink;
+
+}
+
+img{
+    width: 500px;
+    border: 1px solid palevioletred;
+
+}
+
+p b {
+    color: palevioletred;
+
+}
